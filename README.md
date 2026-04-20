@@ -1,5 +1,3 @@
-# techBasics1_Melika_Yaribakht
-
 # Tech Basics 1
 
 This repository contains my assignments for the Tech Basics 1 course.
